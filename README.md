@@ -2,6 +2,8 @@
 # backend_pruebatecnica_optica_inmobiliaria
 Repositorio backend de la prueba tecnica para la empresa optica inmobiliaria
 
+# Backend realizado con Flask en Python
+
 # Registrando un usuario
 ![registro_ultimo](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/92cf2b40-ee9e-49e6-83fc-14e8678cc241)
 
