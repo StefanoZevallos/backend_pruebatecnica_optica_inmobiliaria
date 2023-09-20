@@ -3,11 +3,15 @@
 Repositorio backend de la prueba tecnica para la empresa optica inmobiliaria
 
 # Registrando un usuario
-![prueba_1_backend](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/744337ad-4d84-4abf-8c91-279f8a141df1)
+![registro_ultimo](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/92cf2b40-ee9e-49e6-83fc-14e8678cc241)
 
 # Usuario registrado en la bd
-#![prueba_backend_bd](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/8552ce42-2c50-4a53-a81a-5a04786ab14d)
+![postman_bd](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/4660e0a2-c0ca-4edf-bb32-6e019c36b32f)
+
 # Logeando un usuario
-![prueba_2_backend](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/d63854e2-a49c-4ec5-adf1-bfec8d4f3191)
+![login_postman](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/8b0745b3-ee74-4b85-916b-8cb043de7579)
+
+
 # Viendo el perfil del usuario para rutas protegidas con token de autenticacion como Header
-![prueba_3_backend](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/7adafb1c-2173-463e-b831-a18a30910b6f)
+![perfil](https://github.com/StefanoZevallos/backend_pruebatecnica_optica_inmobiliaria/assets/107054283/8a9b3274-d0de-4909-bc2b-535aa5188180)
+
